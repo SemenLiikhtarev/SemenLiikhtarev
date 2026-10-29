@@ -77,14 +77,15 @@ text
 🎨 UI/UX и анимации         ████████████████████  ████████████████████ 
 📫 Связаться со мной
 <div align="center">
-https://img.shields.io/badge/GitHub-SemenLiikhtarev-181717?style=for-the-badge&logo=github
+
+[![GitHub](https://img.shields.io/badge/GitHub-SemenLiikhtarev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SemenLiikhtarev)
 
 Есть идея, проект или задача? Пишите — обсудим вайб! 🚀
 
 </div>
 <div align="center">
 ⭐ «Код — это не только логика. Это настроение.»
-https://visitor-badge.laobi.icu/badge?page_id=SemenLiikhtarev.SemenLiikhtarev
+[![GitHub]https://visitor-badge.laobi.icu/badge?page_id=SemenLiikhtarev.SemenLiikhtarev
 
 Спасибо, что заглянули! Поставьте ⭐ моим проектам, если они вам откликнулись.
 
