@@ -1,9 +1,14 @@
 👋 Привет, я — Semen Likhtarev!
 <div align="center">
 🧠 Вайб-кодер • Создатель цифровых продуктов • От идеи до релиза
-https://img.shields.io/github/followers/SemenLiikhtarev?style=for-the-badge&logo=github&color=6e40c9
-https://img.shields.io/badge/Vibe%20Coding-%E2%9A%A1-ff69b4?style=for-the-badge
-https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=for-the-badge
+
+[![GitHub followers](https://img.shields.io/github/followers/SemenLiikhtarev?style=for-the-badge&logo=github&color=6e40c9)](https://github.com/SemenLiikhtarev)
+
+<!-- Vibe Coding (добавлен label) -->
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-⚡-ff69b4?style=for-the-badge)
+
+<!-- Счётчик посещений (если не отображается, попробуйте добавить &v=1) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SemenLiikhtarev.SemenLiikhtarev&v=1)
 
 </div>
 🌊 Что такое вайб-кодинг?
