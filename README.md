@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/SemenLiikhtarev?style=for-the-badge&logo=github&color=6e40c9)](https://github.com/SemenLiikhtarev)
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-⚡-ff69b4?style=for-the-badge)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SemenLiikhtarev.SemenLiikhtarev&v=1)
+[![Сайт-визитка](https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82--%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0-8b6cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://semenliikhtarev.github.io/site/)
 
 </div>
 
@@ -95,6 +96,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-SemenLiikhtarev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SemenLiikhtarev)
+[![Сайт-визитка](https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82--%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0-8b6cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://semenliikhtarev.github.io/site/)
 
 Есть идея, проект или задача? Пишите — обсудим вайб! 🚀
 
